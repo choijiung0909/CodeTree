@@ -7,7 +7,7 @@ public class Main {
         if(n < 5){
             System.out.println((n*n) + "\n" + "tiny");
         }
-        else ({
+        else{
             System.out.println(n*n);
         }
     }
